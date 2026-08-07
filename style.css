@@ -16,7 +16,7 @@
   color: white;
 
   align-items: center;
-  /* justify-content: space-evenly; */
+  justify-content: space-evenly;
 }
 .nav-logo {
   height: 50px;
@@ -83,8 +83,11 @@
 .nav-signin {
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
-  width: 200px;
-  height: 60px;
+  /* align-items: center; */
+  width: 140px;
+  height: 55px;
   flex-direction: column;
+}
+.nav-signin-p {
+  font-size: 1.2rem;
 }
