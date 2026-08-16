@@ -41,6 +41,7 @@
 .add-second {
   color: white;
   font-size: 1rem;
+  font-weight: 600;
 }
 .add-icon {
   display: flex;
@@ -88,6 +89,27 @@
   height: 55px;
   flex-direction: column;
 }
-.nav-signin-p {
-  font-size: 1.2rem;
+.nav-search:hover {
+  border: 2px solid orange;
+}
+
+/* box4 */
+
+span {
+  font-size: 0.9rem;
+}
+.nav-second {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+/* box 6 */
+
+.nav-cart i {
+  font-size: 28px;
+}
+
+.nav-cart {
+  fontsize: 1.1rem;
+  font-weight: 800;
 }
