@@ -96,7 +96,7 @@
 /* box4 */
 
 span {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .nav-second {
   font-size: 1.15rem;
@@ -106,10 +106,10 @@ span {
 /* box 6 */
 
 .nav-cart i {
-  font-size: 28px;
+  font-size: 28.5px;
 }
 
 .nav-cart {
-  fontsize: 1.2rem;
+  font-size: 1.2rem;
   font-weight: 800;
 }
